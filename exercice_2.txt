@@ -1,0 +1,12 @@
+- Solidity est un langage de programmation orienté contrat
+- 0.8.16
+- Un smart contract est un contract qui s'appuient sur la blockchain pour rendre infalsifiable les termes et l'execution de ce-dernier.
+Certaines clauses peuvent être éxécutés automatiquement. 
+- Solidity, metamask et remix-ethereum.
+- La version du compilateur utilisée (ou la licence si on compte les commentaires)
+- Un jeton ou token peut être envoyé et échangé sur une blockchain sans intermédiaires. ERC20, ERC721, ERC1155
+- 
+- testnet
+- remix-ethereum est un IDE basé sur le Cloud
+- Les réseaux publics, privés, à autorisation et de consortium.
+- La blockchain est un outil décentralisé de traçabilité infalsifiable de transactions
